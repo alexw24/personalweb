@@ -1,0 +1,4 @@
+weight: 2
+title: ""
+icon: "go.svg"
+description: "I've worked with microservices in Go. I've used it to write an internal CLI tool that asked for a few inputs, sent a request to an API, and displayed the resoonse."
