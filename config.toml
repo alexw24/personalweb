@@ -13,7 +13,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     email = "alex.wit@me.com"
     twitter = "Alex_W1237"
     linkedin = "https://www.linkedin.com/in/alex-witkowski-670175139/"
-    github = "alexw24"
+    github = "alexw2"
 
 [params.nav]
     enable = true
@@ -23,7 +23,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     avatar = "avatar.jpg"
     subtitle = "Alex Witkowski, a junior software engineer in AZ."
     hero_right = ["**Previously delivered user-facing features on a full stack team.**", "I grew up highly interested in technology and have found the most enjoyment in programming. For over a year I worked on a quickly scaling engineering team, learning a variety of popular tools.", "Currently at Chandler-Gilbert Community College finishing an Associates of Science."]
-    resume = "ResumeCollado.pdf"
+    resume = "alex.pdf"
 
 [params.process]
     enable = true
