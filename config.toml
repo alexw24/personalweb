@@ -1,4 +1,4 @@
-baseURL = "alexwit.com"
+baseURL = "http://tender-turing-68d6f0.netlify.com"
 languageCode = "en-us"
 title = "My Portfolio Website"
 theme = "hugo-lodi-theme"
