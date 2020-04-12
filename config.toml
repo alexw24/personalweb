@@ -13,7 +13,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     email = "alex.wit@me.com"
     twitter = "Alex_W1237"
     linkedin = "https://www.linkedin.com/in/alex-witkowski-670175139/"
-    github = "github"
+    github = "alexw24"
 
 [params.nav]
     enable = true

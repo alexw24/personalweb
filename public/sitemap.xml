@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/cope/</loc>
+    <loc>http://tender-turing-68d6f0.netlify.com/cope/</loc>
     <lastmod>2017-10-15T03:29:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/360pro/</loc>
+    <loc>http://tender-turing-68d6f0.netlify.com/360pro/</loc>
     <lastmod>2017-10-15T03:29:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/tedx/</loc>
+    <loc>http://tender-turing-68d6f0.netlify.com/tedx/</loc>
     <lastmod>2017-10-15T03:29:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/</loc>
+    <loc>http://tender-turing-68d6f0.netlify.com/</loc>
     <lastmod>2017-10-15T03:29:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/categories/</loc>
+    <loc>http://tender-turing-68d6f0.netlify.com/categories/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/tags/</loc>
+    <loc>http://tender-turing-68d6f0.netlify.com/tags/</loc>
   </url>
   
 </urlset>
