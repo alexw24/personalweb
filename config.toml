@@ -1,12 +1,12 @@
 baseURL = "http://tender-turing-68d6f0.netlify.com/"
 languageCode = "en-us"
-title = "My Portfolio Website"
+title = "Alex Witkowski"
 theme = "hugo-lodi-theme"
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
     theme_color = "#574CDD"
-    description = "Portfolio of Alexis Collado, UX Designer"
+    description = "Portfolio of Alex Witkowksi"
     description_photo = "portfolio.jpg"
     favicon = "favicon.png"
     logo = "logo.png"
