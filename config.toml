@@ -1,0 +1,39 @@
+baseURL = "localhost:1313"
+languageCode = "en-us"
+title = "My Portfolio Website"
+theme = "hugo-lodi-theme"
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+[params]
+    theme_color = "#574CDD"
+    description = "Portfolio of Alexis Collado, UX Designer"
+    description_photo = "portfolio.jpg"
+    favicon = "favicon.png"
+    logo = "logo.png"
+    email = "alex.wit@me.com"
+    twitter = "Alex_W1237"
+    linkedin = "https://www.linkedin.com/in/alex-witkowski-670175139/"
+    github = "github"
+
+[params.nav]
+    enable = true
+
+[params.hero]
+    enable = true
+    avatar = "avatar.jpg"
+    subtitle = "Alex Witkowski, a junior software engineer in AZ."
+    hero_right = ["**Previously delivered user-facing features on a full stack team.**", "I grew up highly interested in technology and have found the most enjoyment in programming. For over a year I worked on a quickly scaling engineering team, learning a variety of popular tools.", "Currently at Chandler-Gilbert Community College finishing an Associates of Science."]
+    resume = "ResumeCollado.pdf"
+
+[params.process]
+    enable = true
+    title = "Experiences"
+    subtitle = "What I've worked with. Frameworks, languages, etc."
+
+[params.case_studies]
+    enable = false
+    title = "Case Studies"
+    subtitle = "Selected Works"
+
+[params.footer]
+    enable = true
